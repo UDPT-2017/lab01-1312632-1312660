@@ -1,0 +1,95 @@
+body
+{
+	margin:10px;
+	font-family: 'Lora', 'Times New Roman', serif;
+}
+.grid-demo > div {
+
+	border: 1px solid #ddd;
+	opacity: 0.8;
+	line-height:30px
+
+}
+.box
+{
+	margin-bottom:10px;	 
+}
+.breadcrumb
+{
+	margin-bottom:5px;	 
+}
+.clearfix
+{
+	padding:5px;
+}
+.activeMenu
+{
+	background-color:#999;
+	color:#FFF;
+	
+}
+.navbar-color
+{
+	background-color:#41A80C;
+		
+}
+.navbar-color .navbar-nav > li > a
+{
+    color:#F9C7B0;
+	font-weight:800;
+
+}
+.navbar-color .navbar-brand
+{
+	color:#F9C7B0;
+	font-weight:800;
+}
+p > .glyphicon
+    {
+     font-size:50px;
+    }
+
+#header{
+	padding-bottom: 10px;
+}
+
+#menu ul li:hover {
+	background-color: #C8CBCC;
+}
+
+#menu-left ul li:hover {
+	background-color: #C8CBCC;
+	width: 100%;
+}
+/*Login*/
+#login{
+	padding-top: 10px;
+}
+#login a{
+	text-decoration: none;
+}
+#login .form-inline .form-group{
+	padding-bottom: 10px;
+}
+.btnLogin{
+	border: 1px solid;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: none;
+}
+.btnLogout{
+	border: 1px solid;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: none;	
+}
+.btnLogin-fb{
+	border: 1px solid;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: none;	
+}
+
+
+
+
