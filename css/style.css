@@ -90,6 +90,13 @@ p > .glyphicon
 	background-color: none;	
 }
 
-
-
-
+/*Set up css page album.html*/
+.panel-body .album-list{
+	color: #777;
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+}
+.album{
+	margin-top: 20px;
+}
