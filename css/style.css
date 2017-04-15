@@ -90,7 +90,7 @@ p > .glyphicon
 	background-color: none;	
 }
 
-/*Set up css page album.html*/
+/*style for album page*/
 .panel-body .album-list{
 	color: #777;
     font-size: 18px;
@@ -116,3 +116,30 @@ p > .glyphicon
 .panel-body .blog{
 	margin-top:10px;
 }
+
+/*style for about page*/
+.panel-body .info{
+    margin-left: 150px;
+}
+.map{
+	margin-left: 168px;
+	/* margin: 0; */
+}
+.map h2 {
+	color: #337ab7;
+}
+
+/*style for google map in about page*/
+.google-map {
+        position: relative;
+        padding-bottom: 75%;
+        height: 60%;
+        overflow: hidden;
+    }
+.google-map iframe {
+        position: absolute;
+        top: 0;
+        left:  0;
+        width: 100% !important;
+        height: 100% !important;
+    }
