@@ -90,7 +90,7 @@ p > .glyphicon
 	background-color: none;	
 }
 
-/*Set up css page album.html*/
+/*style for album page*/
 .panel-body .album-list{
 	color: #777;
     font-size: 18px;
@@ -99,4 +99,19 @@ p > .glyphicon
 }
 .album{
 	margin-top: 20px;
+}
+
+/*style for about page*/
+.panel-body .info{
+	color: #777;
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+    margin-left: 150px;
+}
+.map{
+	margin-left: 168px;
+}
+.map h2{
+	color: #337ab7;
 }
