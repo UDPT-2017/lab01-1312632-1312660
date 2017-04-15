@@ -101,12 +101,24 @@ p > .glyphicon
 	margin-top: 20px;
 }
 
-/*style for about page*/
-.panel-body .info{
+/*Set up css page blog.html*/
+.panel-body .post-list{
 	color: #777;
     font-size: 18px;
     margin-top: 0;
     text-align: center;
+}
+.panel-body p{
+	text-align: left;
+	line-height: 1.5;
+	color: #000000;
+}
+.panel-body .blog{
+	margin-top:10px;
+}
+
+/*style for about page*/
+.panel-body .info{
     margin-left: 150px;
 }
 .map{
@@ -116,6 +128,7 @@ p > .glyphicon
 .map h2 {
 	color: #337ab7;
 }
+
 /*style for google map in about page*/
 .google-map {
         position: relative;
