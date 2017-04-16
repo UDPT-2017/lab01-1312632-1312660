@@ -1,12 +1,12 @@
-# BT-UDPT-1 - *Name of your app*
+﻿# BT-UDPT-1 - *Name of your app*
 
-**Name of your app** là một bài tập 1 tại môn UDPT.
+**Albums Management** là một bài tập 1 tại môn UDPT.
 
 Thành viên:
-* [x] **1312632** Tên sinh viên 1 (tên tài khoản github)
-* [x] **1312660** Tên sinh viên 2 (tên tài khoản github)
+* [x] **1312632** Tên sinh viên 1 (CaoTrung)
+* [x] **1312660** Tên sinh viên 2 (1312660
 
-URL: **URL hosting của bài tập**
+URL: ** https://hw1-udpt.herokuapp.com/**
 
 ## Yêu cầu
 
