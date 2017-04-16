@@ -121,10 +121,7 @@ p > .glyphicon
 .panel-body .info{
     margin-left: 150px;
 }
-.map{
-	margin-left: 168px;
-	/* margin: 0; */
-}
+
 .map h2 {
 	color: #337ab7;
 }
@@ -132,8 +129,7 @@ p > .glyphicon
 /*style for google map in about page*/
 .google-map {
         position: relative;
-        padding-bottom: 75%;
-        height: 60%;
+        padding-bottom: 40%;
         overflow: hidden;
     }
 .google-map iframe {
